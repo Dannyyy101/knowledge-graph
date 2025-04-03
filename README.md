@@ -2,7 +2,7 @@
 
 This project allows users to save excerpts from web pages, categorize them, and create relationships between them dynamically. Over time, users build a personal knowledge graph that visually represents how their saved content connects. 
 
-🎯 Implementation Roadmap
+### 🎯 Implementation Roadmap
 
 📌 Phase 1: Core Functionality
 - [ ] Create a basic Chrome/Firefox extension
